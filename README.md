@@ -1,5 +1,7 @@
-Projeto Integrador
+Projeto Integrador - 1º trimestre de 2022
+
 Tema
+
 DIAGNÓSTICO DE SOLUÇÕES DE TI
 Capítulo I – Introdução e conceitos
 Proposta
