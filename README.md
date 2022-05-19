@@ -5,8 +5,11 @@ Tema
 DIAGNÓSTICO DE SOLUÇÕES DE TI
 Capítulo I – Introdução e conceitos
 Proposta
-Enunciado 1ª
-Etapa
+
+Enunciado 
+
+1ª Etapa
+
 As Organizações e a TI - Descrever conceitualmente a evolução das empresas, a história e
 desenvolvimento da TI e o objetivo do trabalho
 Norteadores - o que é produto / serviço, a importância de se ter valores, missão e visão de
